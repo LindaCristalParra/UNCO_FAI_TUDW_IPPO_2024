@@ -1,10 +1,10 @@
-    # UNCO_FAI_TUDW_IPPO_2024
-    ### Introducción a la Programación Orientada a Objetos (IPOO)
+# UNCO_FAI_TUDW_IPPO_2024
+   ### Introducción a la Programación Orientada a Objetos (IPOO)
 
-    Bienvenido al repositorio de la materia Introducción a la Programación Orientada a Objetos. En este repositorio se alojarán todos los proyectos propuestos por la cátedra, junto con su respectiva documentación.
+   Bienvenido al repositorio de la materia Introducción a la Programación Orientada a Objetos. En este repositorio se alojarán todos los proyectos propuestos por la cátedra, junto con su respectiva documentación.
 
 
-    ### Estructura del Repositorio
+   ## Estructura del Repositorio
 
     UNCO_FAI_TUDW_IPPO_2024 
     ├── TP1 
@@ -93,11 +93,9 @@
     └── README.md
 
 
-    ## Clonar el Repositorio
+## Clonar el Repositorio
 
-    Para clonar este repositorio, puedes usar el siguiente comando:
+Para clonar este repositorio, puedes usar el siguiente comando:
 
-    ```sh
-    git clone https://github.com/LindaCristalParra/UNCO_FAI_TUDW_IPPO_2024.git
-
-
+```sh
+git clone https://github.com/LindaCristalParra/UNCO_FAI_TUDW_IPPO_2024.git
