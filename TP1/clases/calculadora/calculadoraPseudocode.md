@@ -2,23 +2,23 @@ CLASE Calculadora
 
     Privado:
 
-        REAL a,b
+        REAL a, b
 
     Publico:
 
         FUNCION setA(REAL numa) 
-            REAL a <-- numa;
+            REAL a <-- numa
         FIN FUNCION
         
         FUNCION setB(REAL numb) 
-            REAL b <-- numb;
+            REAL b <-- numb
         FIN FUNCION
                 
         FUNCION getA() RETORNA REAL
             retorna a
         FIN FUNCION
 
-        FUNCION ogetB() RETORNA REAL
+        FUNCION getB() RETORNA REAL
             retorna b
         FIN FUNCION
 
@@ -35,10 +35,10 @@ CLASE Calculadora
         FIN FUNCION
 
         FUNCION dividir(a, b) RETORNA REAL
-            retorna a /$b
+            retorna a / b
         FIN FUNCION
 
         FUNCION __toString() RETORNA TEXTO
             retorna getA() + ", " + getB()
         FIN FUNCION
-FiIN CLASE
+FIN CLASE
